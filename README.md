@@ -1,2 +1,2 @@
 # Clase-Git
-Prueba
+Prueba en clase
